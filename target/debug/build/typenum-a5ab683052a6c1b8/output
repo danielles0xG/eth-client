@@ -1,3 +1,0 @@
-cargo:rerun-if-changed=build/main.rs
-cargo:rustc-env=TYPENUM_BUILD_CONSTS=/Users/danielguerrero/workspace/RUST/rust-eth-cnx/rust-eth-cnx/target/debug/build/typenum-a5ab683052a6c1b8/out/consts.rs
-cargo:rustc-env=TYPENUM_BUILD_OP=/Users/danielguerrero/workspace/RUST/rust-eth-cnx/rust-eth-cnx/target/debug/build/typenum-a5ab683052a6c1b8/out/op.rs
