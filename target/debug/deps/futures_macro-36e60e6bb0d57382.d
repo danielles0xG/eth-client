@@ -1,0 +1,9 @@
+/Users/danielguerrero/workspace/RUST/rust-eth-cnx/rust-eth-cnx/target/debug/deps/libfutures_macro-36e60e6bb0d57382.dylib: /Users/danielguerrero/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-macro-0.3.28/src/lib.rs /Users/danielguerrero/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-macro-0.3.28/src/executor.rs /Users/danielguerrero/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-macro-0.3.28/src/join.rs /Users/danielguerrero/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-macro-0.3.28/src/select.rs /Users/danielguerrero/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-macro-0.3.28/src/stream_select.rs
+
+/Users/danielguerrero/workspace/RUST/rust-eth-cnx/rust-eth-cnx/target/debug/deps/futures_macro-36e60e6bb0d57382.d: /Users/danielguerrero/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-macro-0.3.28/src/lib.rs /Users/danielguerrero/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-macro-0.3.28/src/executor.rs /Users/danielguerrero/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-macro-0.3.28/src/join.rs /Users/danielguerrero/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-macro-0.3.28/src/select.rs /Users/danielguerrero/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-macro-0.3.28/src/stream_select.rs
+
+/Users/danielguerrero/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-macro-0.3.28/src/lib.rs:
+/Users/danielguerrero/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-macro-0.3.28/src/executor.rs:
+/Users/danielguerrero/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-macro-0.3.28/src/join.rs:
+/Users/danielguerrero/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-macro-0.3.28/src/select.rs:
+/Users/danielguerrero/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-macro-0.3.28/src/stream_select.rs:

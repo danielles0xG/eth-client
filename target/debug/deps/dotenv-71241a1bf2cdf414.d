@@ -1,0 +1,11 @@
+/Users/danielguerrero/workspace/RUST/rust-eth-cnx/rust-eth-cnx/target/debug/deps/dotenv-71241a1bf2cdf414.rmeta: /Users/danielguerrero/.cargo/registry/src/github.com-1ecc6299db9ec823/dotenv-0.15.0/src/lib.rs /Users/danielguerrero/.cargo/registry/src/github.com-1ecc6299db9ec823/dotenv-0.15.0/src/parse.rs /Users/danielguerrero/.cargo/registry/src/github.com-1ecc6299db9ec823/dotenv-0.15.0/src/errors.rs /Users/danielguerrero/.cargo/registry/src/github.com-1ecc6299db9ec823/dotenv-0.15.0/src/iter.rs /Users/danielguerrero/.cargo/registry/src/github.com-1ecc6299db9ec823/dotenv-0.15.0/src/find.rs
+
+/Users/danielguerrero/workspace/RUST/rust-eth-cnx/rust-eth-cnx/target/debug/deps/libdotenv-71241a1bf2cdf414.rlib: /Users/danielguerrero/.cargo/registry/src/github.com-1ecc6299db9ec823/dotenv-0.15.0/src/lib.rs /Users/danielguerrero/.cargo/registry/src/github.com-1ecc6299db9ec823/dotenv-0.15.0/src/parse.rs /Users/danielguerrero/.cargo/registry/src/github.com-1ecc6299db9ec823/dotenv-0.15.0/src/errors.rs /Users/danielguerrero/.cargo/registry/src/github.com-1ecc6299db9ec823/dotenv-0.15.0/src/iter.rs /Users/danielguerrero/.cargo/registry/src/github.com-1ecc6299db9ec823/dotenv-0.15.0/src/find.rs
+
+/Users/danielguerrero/workspace/RUST/rust-eth-cnx/rust-eth-cnx/target/debug/deps/dotenv-71241a1bf2cdf414.d: /Users/danielguerrero/.cargo/registry/src/github.com-1ecc6299db9ec823/dotenv-0.15.0/src/lib.rs /Users/danielguerrero/.cargo/registry/src/github.com-1ecc6299db9ec823/dotenv-0.15.0/src/parse.rs /Users/danielguerrero/.cargo/registry/src/github.com-1ecc6299db9ec823/dotenv-0.15.0/src/errors.rs /Users/danielguerrero/.cargo/registry/src/github.com-1ecc6299db9ec823/dotenv-0.15.0/src/iter.rs /Users/danielguerrero/.cargo/registry/src/github.com-1ecc6299db9ec823/dotenv-0.15.0/src/find.rs
+
+/Users/danielguerrero/.cargo/registry/src/github.com-1ecc6299db9ec823/dotenv-0.15.0/src/lib.rs:
+/Users/danielguerrero/.cargo/registry/src/github.com-1ecc6299db9ec823/dotenv-0.15.0/src/parse.rs:
+/Users/danielguerrero/.cargo/registry/src/github.com-1ecc6299db9ec823/dotenv-0.15.0/src/errors.rs:
+/Users/danielguerrero/.cargo/registry/src/github.com-1ecc6299db9ec823/dotenv-0.15.0/src/iter.rs:
+/Users/danielguerrero/.cargo/registry/src/github.com-1ecc6299db9ec823/dotenv-0.15.0/src/find.rs:
